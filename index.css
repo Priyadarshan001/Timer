@@ -1,0 +1,29 @@
+.timer{
+    margin: 100px;
+    justify-items: center;
+}
+
+.timeCounter{
+    margin: 100px;
+    
+}
+.buttonReset{
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.reset{
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.hour{
+    margin: 4px 2px;
+    font-weight: bolder;
+}
+.minute{
+    margin: 4px 2px;
+    font-weight: bolder;
+}
+.second{
+    margin: 4px 2px;
+    font-weight: bolder;
+}
