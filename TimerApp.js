@@ -61,7 +61,7 @@ class TimerApp extends React.Component {
     return (
       <div
         style={{
-          height: "100vh",
+          height: "150vh",
           display: "flex",
           alignItems: "center",
           flexDirection: "column",
